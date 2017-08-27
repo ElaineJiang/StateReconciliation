@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_20f6e1f0999531470da88d1ba6b2e12f2d0ba854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_052a8002c77bd533d9eb1424d87a49be0dea8491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_0abf407bea500e9ddbbb8764fb632efd43fd2c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_68eff42258d3a493cc7dc7cf408b30aef065dd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_bca5b226619b74feccbb6645d522440d26973c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_80cce3d152bc0eb4321c916081ae5ac57a4e899e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_d60f7df0562667b21960a46091ee04fa46d09b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_5d110f59dbc3861cd4d9df1ab630c42bc16fd573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_a1491001c598981a1344e1ed6c363c4744bc3e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_adedf75d3e1a1515cc32ffa700f6f58a9b0a0f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_0618934186b82f65e68ccd343f5675de96325a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_9a58697bdbdf4f4d67d8a913ffe20b2371814ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_1a1e4a71059b6ea3dcefe3241b3ef25d97df94f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_e799a99b0d6c80ad18886b4a7708bc94a6e5d417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_0230957d585e725fc522176b5aa779b56928e586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jiangyi/Downloads/StateReconcilation/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_ab7f5d80fa5840ccbdbd50211cdea2e9dde02a46.jar" />
+    </item>
+
+</items>
